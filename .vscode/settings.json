@@ -1,0 +1,22 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+
+
+  "[html]": {
+    "editor.defaultFormatter":"esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter":"esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter":"esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter":"esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter":"esbenp.prettier-vscode"
+  },
+  "editor.rulers": [80, 100],
+  "editor.tabSize": 2,
+}
